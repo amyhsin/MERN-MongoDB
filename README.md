@@ -1,6 +1,5 @@
 # mern-mongodb
 
 <br/>
-
-' npm start dev '
-` npm `
+#### 1.在 terminal 執行
+` npm run dev `
