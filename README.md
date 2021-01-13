@@ -8,3 +8,7 @@
 
 ![image](https://github.com/amyhsin/mern-mogodb/blob/main/GIF/web.gif)
 
+#### 3.進入MongoDB，確認問卷結果傳輸無誤。
+
+![image](https://github.com/amyhsin/mern-mogodb/blob/main/GIF/db.gif)
+
