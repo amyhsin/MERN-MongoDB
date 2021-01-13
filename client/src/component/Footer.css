@@ -1,0 +1,12 @@
+.footer{
+    background-color: rgb(236, 170, 93);
+    height: 60px;
+}
+#f1{
+	font-size: 12px;
+	font-weight: bold;
+	color: #555555;
+	height: 60px;
+	line-height: 60px;
+	/* padding-left: 15px; */
+}
