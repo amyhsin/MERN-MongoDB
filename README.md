@@ -3,5 +3,4 @@
 
 
 #### 1.在 terminal 執行
-<br>
-`npm run dev`
+### `npm run dev`
